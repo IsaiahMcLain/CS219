@@ -1,0 +1,14 @@
+MOV  r0 0x1234
+MOV  r1 0x5678
+ADD  r3 r0 r1
+SUB  r4 r0 r1
+AND  r5 r0 r1
+ORR  r6 r0 r1
+XOR  r7 r0 r1
+NOT  r0 r1 
+LSR  r0 r1
+LSL  r0 r1
+ASR  r0 r1
+MOV  r0 0x1234 
+ADD  r3 r0 r1
+NOT  r4 r3 
